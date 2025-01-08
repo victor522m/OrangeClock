@@ -104,7 +104,7 @@ Este proyecto está bajo la GNU General Public License v3.0. Puedes usarlo, modi
 
 ## 📧 Contacto
 
-Si tienes preguntas o sugerencias, no dudes en abrir un issue en el repositorio o contactarme en [tu-email@example.com](mailto:tu-email@example.com).
+Si tienes preguntas o sugerencias, no dudes en abrir un issue en el repositorio o contactarme en [tu-email@example.com](mailto:victor522m@gmail.com).
 
 ---
 
